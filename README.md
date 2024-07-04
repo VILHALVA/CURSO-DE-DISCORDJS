@@ -35,8 +35,6 @@ A biblioteca Discord.js foi criada por Amine Benkelifa em 2015. Desde então, pa
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-TYPESCRIPT)
 - [TECNOLOGIA](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 - [VEJA O MANUAL](./MANUAL.md)
-- [VEJA OS PROJETOS COM DISCORDJS](https://github.com/VILHALVA?tab=repositories&q=+topic:DISCORDJS)
-- [VEJA OS PROJETOS COM UMBRAPLUS](https://github.com/VILHALVA?tab=repositories&q=+topic:UMBRAPLUS)
-- [VEJA TODOS OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=+topic:BOT+topic:DISCORD)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=+topic:DISCORDJS)
 
 

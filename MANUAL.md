@@ -1,4 +1,4 @@
-# MANUAL DO DISCORDJS
+# MANUAL 
 ## 1. INSTALAÇÃO:
 ### REQUISITOS:
 - **Node.js**: Certifique-se de ter o Node.js instalado. Você pode baixá-lo de [nodejs.org](https://nodejs.org/).
@@ -92,54 +92,3 @@
 ## RESUMO:
 Você configurou um projeto Node.js, instalou o Discord.js, criou e configurou um bot no Discord Developer Portal, escreveu o código do bot e o adicionou ao seu servidor. Agora, ao digitar `!oi` em um canal onde o bot está presente, ele responderá com "Olá!".
 
-# [MANUAL DO UMBRAPLUS](https://github.com/rinckodev/umbraplus)
-O `umbraplus` é uma ferramenta de CLI (Command Line Interface) que facilita a criação de bots para o Discord, configurando automaticamente vários aspectos do projeto e instalando dependências necessárias.
-
-## SOBRE `UMBRAPLUS`:
-- **Conceito**: O `umbraplus` é uma ferramenta de linha de comando projetada para simplificar o processo de criação de bots do Discord. Ele ajuda a inicializar rapidamente um projeto, configurar as dependências e fornecer uma estrutura básica para o desenvolvimento do bot.
-
-- **Características**:
-  - **Automatização**: Automatiza a criação de um novo projeto de bot do Discord.
-  - **Configuração Inicial**: Configura arquivos iniciais e instala dependências necessárias.
-  - **Compatibilidade**: Pode ser usado com diferentes linguagens de programação suportadas pelo Discord.js, como JavaScript e TypeScript.
-
-## COMO UTILIZAR `UMBRAPLUS`:
-1. **Instalação**:
-   - Você pode iniciar o `umbraplus` diretamente usando `npx`, sem necessidade de instalação prévia:
-
-   ```bash
-   npx umbraplus
-   ```
-
-2. **Criação do Projeto**:
-   - Ao executar `npx umbraplus`, você será guiado por um assistente que pedirá algumas informações, como o nome do projeto e se deseja instalar dependências.
-
-3. **Estrutura do Projeto**:
-   - O `umbraplus` criará uma estrutura de diretórios padrão para o seu projeto e incluirá arquivos essenciais, como o `package.json` e o arquivo principal do bot (geralmente `index.js` ou `src/index.ts`).
-
-## EXEMPLO DE USO:
-Aqui está um exemplo de como você pode usar `umbraplus` para criar um novo bot do Discord:
-
-1. **Executar `umbraplus`**:
-   ```bash
-   npx umbraplus
-   ```
-
-2. **Responder às Perguntas do Assistente**:
-   - Escolha "Create discord bot".
-   - Informe o nome do projeto (por exemplo, `name`).
-   - Escolha uma base de dados, se necessário (neste caso, "None").
-   - Escolha "Yes" para instalar dependências.
-
-3. **Navegar até o Diretório do Projeto**:
-   ```bash
-   cd name
-   ```
-
-4. **Iniciar o Bot**:
-   ```bash
-   npm run dev
-   ```
-
-## CONCLUSÃO:
-O `umbraplus` é uma ferramenta útil para desenvolvedores que desejam iniciar rapidamente a criação de bots do Discord com uma configuração básica já preparada. Ele facilita a criação do projeto e a instalação das dependências, permitindo que você se concentre mais na lógica do bot em vez de nas configurações iniciais.

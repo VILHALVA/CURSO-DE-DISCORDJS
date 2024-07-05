@@ -3,11 +3,6 @@
 
 <img src="FOTO.png" align="center" width="400"> <br>
 
-## AVISO:
-- No `./CURSO COMPRETO/README.md` e `./CURSO COMPRETO/CODIGO`, o foco é exclusivamente na criação de bots utilizando `UMBRAPLUS`.
-- No arquivo `./MANUAL.md`, você encontrará instruções detalhadas tanto para o uso de `UMBRAPLUS` quanto para `DISCORDJS`.
-- O framework [UMBRAPLUS](https://github.com/rinckodev/umbraplus) foi criado pelo próprio professor deste curso. Isso ajuda a entender por que ele não é amplamente conhecido, além de não possuir documentação oficial nem um ícone estabelecido.
-
 ## CONCEITO:
 Discord.js é uma biblioteca poderosa que permite aos desenvolvedores interagir com a API do Discord, facilitando a criação de bots de Discord em JavaScript/TypeScript. É amplamente utilizada para construir bots com funcionalidades variadas, desde simples comandos de texto até sistemas complexos de moderação e integração com outras APIs.
 
@@ -28,11 +23,10 @@ A biblioteca Discord.js foi criada por Amine Benkelifa em 2015. Desde então, pa
 - **Complexidade:** Para funcionalidades avançadas, o código pode se tornar bastante complexo, exigindo um bom entendimento de conceitos de programação assíncrona e manipulação de eventos.
 
 ## SUBSIDIOS:
-- [CURSO CRIADO PELO "RINCKO DEV"](https://youtube.com/playlist?list=PL9tY_tDo_Q0AViSBJKUnUlwnwzAhMR4HE&si=vr98MbBf8c_UQ2j4)
+- [CURSO CRIADO PELO "PEDRO RICARDO - PR"](https://youtube.com/playlist?list=PLj8eMR1hXlcK4eKN8vurLSx7BtteEQuGc&si=nErtAzOrBjQAxXjo)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
-- [VEJA A DOCUMENTAÇÃO DO DISCORDJS](https://discordjs.guide/#before-you-begin)
-- [VEJA A DOCUMENTAÇÃO DO UMBRAPLUS](https://github.com/rinckodev/umbraplus)
-- [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-TYPESCRIPT)
+- [VEJA A DOCUMENTAÇÃO](https://discordjs.guide/#before-you-begin)
+- [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 - [TECNOLOGIA](https://github.com/VILHALVA/CURSO-DE-NODEJS)
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=+topic:DISCORDJS)
